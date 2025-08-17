@@ -16,6 +16,8 @@ The code is fairly straight forward to personalise but just so you don't miss an
 
 `&copy; Images belong to <a href="https://yourwebsite.com">Name</a>` this is the footer text. Replace the link with your own and ammend it as you like!
 
+Alternatively, I have made a [generator](https://coreycaird.com/generators/minimalist-gallery/) for those who would rather not manually edit the code themselves!
+
 ## Demo
 To see how it looks, feel free to preview the [demo](https://coreycaird.com/minimalist-gallery/).
 
