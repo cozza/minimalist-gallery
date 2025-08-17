@@ -108,7 +108,7 @@
  .modal-img {
      margin: auto;
      display: block;
-     max-width: 80%;
+     width: 80%;
      max-width: 1000px;
      max-height:85%;
 }
