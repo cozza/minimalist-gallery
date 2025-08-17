@@ -14,7 +14,7 @@ The code is fairly straight forward to personalise but just so you don't miss an
 
 `<img class="image" alt="Insert your caption here" src="images/001.jpg" style="width:100%">` replace `"images/001.jpg"` etc. with "yourImageURL".
 
-`&copy; Images belong to <a href="https://yourwebsite.com">Name</a>` this is the footer text. Replace the link with your own and ammend it as you like!
+`&copy; Images belong to <a href="https://yourwebsite.com">Name</a>` this is the footer text. Replace the link with your own and amend it as you like!
 
 Alternatively, I have made a [generator](https://coreycaird.com/generators/minimalist-gallery/) for those who would rather not manually edit the code themselves!
 
