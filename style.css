@@ -204,30 +204,30 @@
 
 
 /* Responsive components */
- @media (max-width: 1600px) {
+ @media screen and (max-width: 1600px) {
      #container {
          width:95%;
     }
 }
- @media (max-width: 1100px) and (min-width: 801px) {
+ @media screen and (max-width: 1100px) and (min-width: 801px) {
      .column {
          flex: 33%;
          max-width: 33%;
     }
 }
- @media (max-width: 800px) {
+ @media screen and (max-width: 800px) {
      .column {
          flex: 50%;
          max-width: 50%;
     }
 }
- @media (max-width: 600px) {
+ @media screen and (max-width: 600px) {
      .column {
          flex: 100%;
          max-width: 100%;
     }
 }
- @media (max-width: 700px){
+ @media screen and (max-width: 700px){
      .modal-content {
          width: 100%;
     }
