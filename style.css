@@ -219,6 +219,11 @@
          flex: 50%;
          max-width: 50%;
     }
+       .modal-img {
+        max-width: 85%;
+        height: auto;
+        max-height: none;
+    } 
 }
  @media screen and (max-width: 600px) {
      .column {
